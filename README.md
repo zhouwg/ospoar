@@ -6,6 +6,11 @@
 >
 > All of my GitHub accounts (GitHub: [`zhouwg`](https://github.com/zhouwg) / [`jeffzhou‑zhouwg`](https://github.com/jeffzhou-zhouwg) / [`jeff‑zhouwg`](https://github.com/jeff-zhouwg) have been blocked by the upstream llama.cpp project. The first account was blocked on 2025‑07‑14(I know the reason), and the other two were blocked recently(I have no idea why this happened). This repository contains my personal observations, reviews and reflections on the open‑source ecosystem.
 
+## 文档
+
+- [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/5)
+
+  
 ### 仓库定位
 本仓库不做公开的情绪宣泄、不进行人身攻击，聚焦客观事实记录、技术复盘、开源社区治理议题。
 
