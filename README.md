@@ -8,6 +8,7 @@
 
 ## 文档
 
+- [我对llama.cpp项目的观察与思考](https://github.com/zhouwg/ospoar/discussions/5)
 - [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/5)
 
   
