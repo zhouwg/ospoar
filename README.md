@@ -11,9 +11,10 @@
 - [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/6)
 
   
-### 仓库定位(Role of Repo)
+### 仓库定位(Role of the Repo)
 
 本仓库聚焦客观事实记录、开源社区治理议题。
+
 This repository focuses on documenting objective facts and open‑source community governance topics.
 
 > ⚠️ 声明：
