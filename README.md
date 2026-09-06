@@ -9,13 +9,13 @@
 ## 文档
 
 - [我对llama.cpp项目的观察与思考](https://github.com/zhouwg/ospoar/discussions/5)
-- [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/5)
+- [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/6)
 
   
 ### 仓库定位
-本仓库不做公开的情绪宣泄、不进行人身攻击，聚焦客观事实记录、技术复盘、开源社区治理议题。
+本仓库聚焦客观事实记录、开源社区治理议题。
 
 
 > ⚠️ 声明：
-> - 所有记录基于我个人的视角与亲历事实，存在主观局限性；欢迎不同立场的读者理性讨论。
-> - 不代表任何组织立场，全部为个人观点。
+> - 所有记录基于我个人的视角与亲历事实，存在主观局限性。
+> - 全部为个人观点。
