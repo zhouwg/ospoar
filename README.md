@@ -3,7 +3,7 @@
 > 本仓库是我个人对开源生态的观察、复盘与思考。
 
 
-## Project llama.cpp 
+## 1.Project llama.cpp (别人发起&维护的项目)
 
 #### Overview
 > 我的经历：自2024年3月起重度参与 [llama.cpp](https://github.com/ggml-org/llama.cpp) 项目；截至2026年8月，我的3个GitHub账号均被该项目封禁。
@@ -15,7 +15,7 @@
 - [我对llama.cpp项目的观察与思考](https://github.com/zhouwg/ospoar/discussions/5)
 - [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/6)
 
-## Project Kan-Linux
+## 2.Project Kan-Linux (我发起&维护的项目）
 
 #### Overview
 
