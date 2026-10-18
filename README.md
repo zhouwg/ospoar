@@ -3,7 +3,7 @@
 > 本仓库是我个人对开源生态的观察、复盘与思考。
 > This repository contains my personal observations, reviews and reflections on the open‑source ecosystem.
 
-## 1.Project llama.cpp (别人发起&维护的项目)
+## 1.Project ggml-hexagon (别人发起&我fork的项目)
 
 #### Overview
 
@@ -16,7 +16,7 @@ My experience: Starting in March 2024, I took an active part in the [https://git
 - [我对llama.cpp项目的观察与思考](https://github.com/zhouwg/ospoar/discussions/5)
 - [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/6)
 
-## 2.Project Kan-Linux (我发起&维护的项目）
+## 2.Project Kan-Linux (我发起&主导的项目）
 
 #### Overview
 
