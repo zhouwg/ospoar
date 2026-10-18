@@ -4,7 +4,7 @@
 
 > This repository contains my personal observations, reviews and reflections on the open‑source ecosystem.
 
-## 1.Project ggml-hexagon (originally by others, forked by me)
+## 1.Project ggml-hexagon (originally by ggml-org, forked by me)
 
 #### Overview
 
