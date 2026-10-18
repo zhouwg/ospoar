@@ -1,14 +1,39 @@
-## 开源项目观察与思考 (OSS Observations & Reflections)
+# 开源项目观察与思考 (OSS Observations & Reflections)
 
 > 本仓库是我个人对开源生态的观察、复盘与思考。
+
+
+## Project llama.cpp 
+
+#### Overview
 > 我的经历：自2024年3月起重度参与 [llama.cpp](https://github.com/ggml-org/llama.cpp) 项目；截至2026年8月，我的3个GitHub账号均被该项目封禁。
 >
 > All of my GitHub accounts (GitHub: [`zhouwg`](https://github.com/zhouwg) / [`jeffzhou‑zhouwg`](https://github.com/jeffzhou-zhouwg) / [`jeff‑zhouwg`](https://github.com/jeff-zhouwg) have been blocked by the upstream llama.cpp project. The first account was blocked on 2025‑07‑14(I know the reason), and the other two were blocked recently(I have no idea why this happened). This repository contains my personal observations, reviews and reflections on the open‑source ecosystem.
 
-## 文档 (Docs)
+#### 文档 (Articles)
 
 - [我对llama.cpp项目的观察与思考](https://github.com/zhouwg/ospoar/discussions/5)
 - [My Observations and Reflections on the llama.cpp Project](https://github.com/zhouwg/ospoar/discussions/6)
+
+## Project Kan-Linux
+
+#### Overview
+
+Working on Kan-Linux from scratch has shifted my perspective on Linux distributions. so "Development Notes & Reflections on Kan-Linux" was born.
+
+When adding Chinese input support on Oct 14 2026, I discovered T2 SDE. Having suffered through commercial projects built on [Yocto](https://www.yoctoproject.org/), I personally see it as another Yocto-like highly sophisticated and complex build system, which I don't wish to work with anymore. I greatly admire its maintainer’s over 20 years of work, yet it is striking to see it only has 741 GitHub stars (I added the 741st star), while Omarchy desktop shell reaches 40k+.
+
+I previously only knew mainstream distros. This opened my eyes: hundreds of Linux distributions exist.
+
+I adjusted Kan-Linux goals accordingly: **personal use first**, running my self-built OS on x86-64 PC and laptop. It is still published publicly, but the aarch64 port has been dropped to cut maintenance workload.
+
+## Articles
+
+1. 看了t2sde Linux distro的感受（Thoughts on the T2 SDE Linux distro）, https://github.com/zhouwg/kan-linux-memo/discussions/1
+2. 看了KaOS distro的感受（Thoughts on the KaOS distro）, https://github.com/zhouwg/kan-linux-memo/discussions/5
+
+
+
 
   
 ### 仓库定位(Role of the Repo)
