@@ -8,9 +8,14 @@
 
 #### Overview
 
-我的经历：自2024年3月起重度参与 [llama.cpp](https://github.com/ggml-org/llama.cpp) 项目，前后投入人民币2万元左右；截至2026年8月，我的3个GitHub账号均被该项目封禁。
+我的经历：自2024年3月起重度参与 [llama.cpp](https://github.com/ggml-org/llama.cpp) 项目，前后投入人民币2万元左右；截至2026年8月，我的3个GitHub账号均被该项目封禁。我觉得最失望与最讽刺的是他们官网上如下一句话：
 
-My experience: Starting in March 2024, I took an active part in the [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) project. I spent about 20,000 RMB. By August 2026, all of my GitHub accounts (GitHub: [`zhouwg`](https://github.com/zhouwg) / [`jeffzhou‑zhouwg`](https://github.com/jeffzhou-zhouwg) / [`jeff‑zhouwg`](https://github.com/jeff-zhouwg) have been blocked by the upstream llama.cpp project. The first account was blocked on 2025‑07‑14(I made a mistake and I know the reason), and the other two were blocked recently(I have no idea why this happened). 
+<mark>*"We built ggml in the spirit of play. Contributors are encouraged to try crazy ideas, build wild demos, and push the edge of what’s possible"*</mark>
+
+
+My experience: Starting in March 2024, I took an active part in the [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) project. I spent about 20,000 RMB. By August 2026, all of my GitHub accounts (GitHub: [`zhouwg`](https://github.com/zhouwg) / [`jeffzhou‑zhouwg`](https://github.com/jeffzhou-zhouwg) / [`jeff‑zhouwg`](https://github.com/jeff-zhouwg) have been blocked by the upstream llama.cpp project. The first account was blocked on 2025‑07‑14(I made a mistake and I know the reason), and the other two were blocked recently(I have no idea why this happened). The thing I'm really disappointed about is the following statement on their official website:
+
+<mark>*"We built ggml in the spirit of play. Contributors are encouraged to try crazy ideas, build wild demos, and push the edge of what’s possible"*</mark>
 
 #### 文档 (Articles)
 
