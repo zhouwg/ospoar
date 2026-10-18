@@ -8,7 +8,7 @@
 
 #### Overview
 
-我的经历：自2024年3月起重度参与 [llama.cpp](https://github.com/ggml-org/llama.cpp) 项目，前后投入人民币2万元左右；截至2026年8月，我的3个GitHub账号均被该项目封禁。我觉得最失望与最讽刺的是他们官网上如下一句话：
+我的经历：自2024年3月起重度参与 [llama.cpp](https://github.com/ggml-org/llama.cpp) 项目，前后投入人民币2万元左右；截至2026年8月，我的3个GitHub账号均被该项目封禁。他们对美国大公司的“态度”我完全可以理解，我觉得最失望与最讽刺的是他们官网上如下一句话：
 
 <mark>*"We built ggml in the spirit of play. Contributors are encouraged to try crazy ideas, build wild demos, and push the edge of what’s possible"*</mark>
 
