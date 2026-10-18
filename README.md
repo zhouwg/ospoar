@@ -36,8 +36,8 @@ I adjusted Kan-Linux goals accordingly: **personal use first**, running my self-
 
 #### 文档 (Articles)
 
-1. 看了t2sde Linux distro的感受（Thoughts on the T2 SDE Linux distro）, https://github.com/zhouwg/kan-linux-memo/discussions/1
-2. 看了KaOS distro的感受（Thoughts on the KaOS distro）, https://github.com/zhouwg/kan-linux-memo/discussions/5
+1. 看了t2sde Linux distro的感受（Thoughts on the T2 SDE Linux distro）, https://github.com/zhouwg/ospoar/discussions/8
+2. 看了KaOS distro的感受（Thoughts on the KaOS distro）, https://github.com/zhouwg/ospoar/discussions/9
 
 
 
