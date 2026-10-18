@@ -1,6 +1,7 @@
 # 开源项目观察与思考 (OSS Observations & Reflections)
 
 > 本仓库是我个人对开源生态的观察、复盘与思考。
+
 > This repository contains my personal observations, reviews and reflections on the open‑source ecosystem.
 
 ## 1.Project ggml-hexagon (originally by others, forked by me)
